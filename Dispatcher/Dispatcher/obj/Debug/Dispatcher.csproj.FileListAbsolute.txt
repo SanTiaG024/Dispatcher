@@ -1,0 +1,22 @@
+C:\Users\01999\OneDrive\Escritorio\Dispatcher\Dispatcher\bin\Debug\Dispatcher.exe.config
+C:\Users\01999\OneDrive\Escritorio\Dispatcher\Dispatcher\bin\Debug\Dispatcher.exe
+C:\Users\01999\OneDrive\Escritorio\Dispatcher\Dispatcher\bin\Debug\Dispatcher.pdb
+C:\Users\01999\OneDrive\Escritorio\Dispatcher\Dispatcher\obj\Debug\Dispatcher.csproj.AssemblyReference.cache
+C:\Users\01999\OneDrive\Escritorio\Dispatcher\Dispatcher\obj\Debug\Dispatcher.csproj.SuggestedBindingRedirects.cache
+C:\Users\01999\OneDrive\Escritorio\Dispatcher\Dispatcher\obj\Debug\Dispatcher.Form1.resources
+C:\Users\01999\OneDrive\Escritorio\Dispatcher\Dispatcher\obj\Debug\Dispatcher.Properties.Resources.resources
+C:\Users\01999\OneDrive\Escritorio\Dispatcher\Dispatcher\obj\Debug\Dispatcher.csproj.GenerateResource.cache
+C:\Users\01999\OneDrive\Escritorio\Dispatcher\Dispatcher\obj\Debug\Dispatcher.csproj.CoreCompileInputs.cache
+C:\Users\01999\OneDrive\Escritorio\Dispatcher\Dispatcher\obj\Debug\Dispatcher.exe
+C:\Users\01999\OneDrive\Escritorio\Dispatcher\Dispatcher\obj\Debug\Dispatcher.pdb
+C:\Users\ThinkPad E14\OneDrive - up.edu.mx\UP\6to Semestre\Sistemas Operativos\Dispatcher\Dispatcher\bin\Debug\Dispatcher.exe.config
+C:\Users\ThinkPad E14\OneDrive - up.edu.mx\UP\6to Semestre\Sistemas Operativos\Dispatcher\Dispatcher\bin\Debug\Dispatcher.exe
+C:\Users\ThinkPad E14\OneDrive - up.edu.mx\UP\6to Semestre\Sistemas Operativos\Dispatcher\Dispatcher\bin\Debug\Dispatcher.pdb
+C:\Users\ThinkPad E14\OneDrive - up.edu.mx\UP\6to Semestre\Sistemas Operativos\Dispatcher\Dispatcher\obj\Debug\Dispatcher.csproj.AssemblyReference.cache
+C:\Users\ThinkPad E14\OneDrive - up.edu.mx\UP\6to Semestre\Sistemas Operativos\Dispatcher\Dispatcher\obj\Debug\Dispatcher.csproj.SuggestedBindingRedirects.cache
+C:\Users\ThinkPad E14\OneDrive - up.edu.mx\UP\6to Semestre\Sistemas Operativos\Dispatcher\Dispatcher\obj\Debug\Dispatcher.Form1.resources
+C:\Users\ThinkPad E14\OneDrive - up.edu.mx\UP\6to Semestre\Sistemas Operativos\Dispatcher\Dispatcher\obj\Debug\Dispatcher.Properties.Resources.resources
+C:\Users\ThinkPad E14\OneDrive - up.edu.mx\UP\6to Semestre\Sistemas Operativos\Dispatcher\Dispatcher\obj\Debug\Dispatcher.csproj.GenerateResource.cache
+C:\Users\ThinkPad E14\OneDrive - up.edu.mx\UP\6to Semestre\Sistemas Operativos\Dispatcher\Dispatcher\obj\Debug\Dispatcher.csproj.CoreCompileInputs.cache
+C:\Users\ThinkPad E14\OneDrive - up.edu.mx\UP\6to Semestre\Sistemas Operativos\Dispatcher\Dispatcher\obj\Debug\Dispatcher.exe
+C:\Users\ThinkPad E14\OneDrive - up.edu.mx\UP\6to Semestre\Sistemas Operativos\Dispatcher\Dispatcher\obj\Debug\Dispatcher.pdb

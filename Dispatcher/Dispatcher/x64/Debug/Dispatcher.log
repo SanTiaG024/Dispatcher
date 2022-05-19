@@ -1,0 +1,15 @@
+﻿  MyForm.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generando código...
+  MyForm.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+MyForm.obj : error LNK2028: se hace referencia al símbolo (token) sin resolver (0A000037) "public: __cdecl Despachador::Despachador(void)" (??0Despachador@@$$FQEAA@XZ) en la función "int __cdecl main(int,char * * const)" (?main@@$$HYAHHQEAPEAD@Z)
+MyForm.obj : error LNK2028: se hace referencia al símbolo (token) sin resolver (0A000038) "public: __cdecl Despachador::~Despachador(void)" (??1Despachador@@$$FQEAA@XZ) en la función "int __cdecl main(int,char * * const)" (?main@@$$HYAHHQEAPEAD@Z)
+MyForm.obj : error LNK2028: se hace referencia al símbolo (token) sin resolver (0A000039) "public: bool __cdecl Despachador::lee_datos(char const *)" (?lee_datos@Despachador@@$$FQEAA_NPEBD@Z) en la función "int __cdecl main(int,char * * const)" (?main@@$$HYAHHQEAPEAD@Z)
+MyForm.obj : error LNK2028: se hace referencia al símbolo (token) sin resolver (0A00003A) "public: bool __cdecl Despachador::imprimeresultados(void)" (?imprimeresultados@Despachador@@$$FQEAA_NXZ) en la función "int __cdecl main(int,char * * const)" (?main@@$$HYAHHQEAPEAD@Z)
+MyForm.obj : error LNK2028: se hace referencia al símbolo (token) sin resolver (0A00003B) "public: bool __cdecl Despachador::principal(unsigned int,unsigned int,unsigned int,unsigned int)" (?principal@Despachador@@$$FQEAA_NIIII@Z) en la función "int __cdecl main(int,char * * const)" (?main@@$$HYAHHQEAPEAD@Z)
+MyForm.obj : error LNK2019: símbolo externo "public: __cdecl Despachador::Despachador(void)" (??0Despachador@@$$FQEAA@XZ) sin resolver al que se hace referencia en la función "int __cdecl main(int,char * * const)" (?main@@$$HYAHHQEAPEAD@Z)
+MyForm.obj : error LNK2019: símbolo externo "public: bool __cdecl Despachador::lee_datos(char const *)" (?lee_datos@Despachador@@$$FQEAA_NPEBD@Z) sin resolver al que se hace referencia en la función "int __cdecl main(int,char * * const)" (?main@@$$HYAHHQEAPEAD@Z)
+MyForm.obj : error LNK2019: símbolo externo "public: bool __cdecl Despachador::principal(unsigned int,unsigned int,unsigned int,unsigned int)" (?principal@Despachador@@$$FQEAA_NIIII@Z) sin resolver al que se hace referencia en la función "int __cdecl main(int,char * * const)" (?main@@$$HYAHHQEAPEAD@Z)
+MyForm.obj : error LNK2019: símbolo externo "public: bool __cdecl Despachador::imprimeresultados(void)" (?imprimeresultados@Despachador@@$$FQEAA_NXZ) sin resolver al que se hace referencia en la función "int __cdecl main(int,char * * const)" (?main@@$$HYAHHQEAPEAD@Z)
+MyForm.obj : error LNK2019: símbolo externo "public: __cdecl Despachador::~Despachador(void)" (??1Despachador@@$$FQEAA@XZ) sin resolver al que se hace referencia en la función "int __cdecl main(int,char * * const)" (?main@@$$HYAHHQEAPEAD@Z)
+C:\Users\01999\OneDrive\Escritorio\Dispatcher\x64\Debug\Dispatcher.exe : fatal error LNK1120: 10 externos sin resolver
